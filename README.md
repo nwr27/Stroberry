@@ -1,2 +1,2 @@
 # Stroberry
-Repo ini digunakan untuk mencooba git repo
+Coba lokal  yang menjadi remotenya
