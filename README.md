@@ -1,2 +1,2 @@
 # Stroberry
-Coba lokal  yang menjadi remotenya
+Coba lokal  yang menjadi remotenya.
